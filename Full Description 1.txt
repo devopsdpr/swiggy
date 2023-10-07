@@ -1,0 +1,17 @@
+Full Description : 
+Highlights : (Bullet Points)
+Terms & Conditions: (If any)
+Small Logo :
+Large Logo :
+Screenshots and Videos: 
+Demo Video:
+Customer Resources:
+     Share up to 15 resources that help customers understand your solution and its features.
+     Upload or link to customization guides, case studies, customer testimonials, and more.
+     User manual / PPT (all in PDF)
+Package Link: https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w0000093lyH
+Package Name :AddRecordsToJunctionObjects2
+Package Version:1.1
+Org ID : 00D2w00000RqB2o
+Company name:Wissen
+Org Name :ARJO_Wissen
